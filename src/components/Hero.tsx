@@ -128,7 +128,7 @@ const Hero = () => {
 
               <Box sx={{ display: 'flex', gap: 2, mt: 4 }}>
                 <IconButton 
-                  href="https://github.com/Akshayshahi" 
+                  href="https://github.com/Akshayshahi900" 
                   target="_blank"
                   color="primary"
                   sx={{ border: 1, borderColor: 'primary.main' }}
@@ -136,7 +136,7 @@ const Hero = () => {
                   <GitHub />
                 </IconButton>
                 <IconButton 
-                  href="https://linkedin.com/in/akshay-shahi-581560247" 
+                  href="https://www.linkedin.com/in/akshay-shahi-5815602a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
                   target="_blank"
                   color="primary"
                   sx={{ border: 1, borderColor: 'primary.main' }}
@@ -146,7 +146,7 @@ const Hero = () => {
               </Box>
             </Box>
 
-            <Box sx={{ display: 'flex', gap: 4, mt: 8 }}>
+            {/* <Box sx={{ display: 'flex', gap: 4, mt: 8 }}>
               <Box>
                 <Typography variant="h4" color="primary" sx={{ fontWeight: 700 }}>
                   2+
@@ -165,7 +165,7 @@ const Hero = () => {
                 </Typography>
                 <Typography variant="body1">Stack Expert</Typography>
               </Box>
-            </Box>
+            </Box> */}
           </Grid>
         </Grid>
       </ContentContainer>
