@@ -83,7 +83,7 @@ const Hero = () => {
               <Box sx={{ my: 3 }}>
                 <ContactInfo>
                   <Email fontSize="small" />
-                  <Typography>shahiakshay900@gmail.com</Typography>
+                  <Typography>akshayofficial070@gmail.com</Typography>
                 </ContactInfo>
                 <ContactInfo>
                   <LocationOn fontSize="small" />
